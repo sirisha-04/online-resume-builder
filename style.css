@@ -1,0 +1,12 @@
+#cv-form{
+   /* display: none;*/
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: hsla(120,60%,70%,0.3);
+}
